@@ -1,0 +1,6 @@
+{
+  enable = true;
+  networks = {
+    "Network SSID" = { psk = "Some password"; };
+  };
+}
